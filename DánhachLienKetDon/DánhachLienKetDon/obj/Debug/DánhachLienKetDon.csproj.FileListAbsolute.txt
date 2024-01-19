@@ -1,0 +1,7 @@
+D:\DánhachLienKetDon\DánhachLienKetDon\obj\Debug\DánhachLienKetDon.csproj.AssemblyReference.cache
+D:\DánhachLienKetDon\DánhachLienKetDon\obj\Debug\DánhachLienKetDon.csproj.CoreCompileInputs.cache
+D:\DánhachLienKetDon\DánhachLienKetDon\bin\Debug\DánhachLienKetDon.exe.config
+D:\DánhachLienKetDon\DánhachLienKetDon\bin\Debug\DánhachLienKetDon.exe
+D:\DánhachLienKetDon\DánhachLienKetDon\bin\Debug\DánhachLienKetDon.pdb
+D:\DánhachLienKetDon\DánhachLienKetDon\obj\Debug\DánhachLienKetDon.exe
+D:\DánhachLienKetDon\DánhachLienKetDon\obj\Debug\DánhachLienKetDon.pdb
